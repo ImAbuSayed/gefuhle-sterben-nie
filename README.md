@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gefuhle-sterben-nie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Gefühle sterben nie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefuhle-sterben-nie/) |
+| **Get License** | [License this song: Gefühle sterben nie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefuhle-sterben-nie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7c303d4915f17127d323f1f18259912c2ed591a0e2e68ba4688cfbd0e4a6c3d1` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gefühle sterben nie
+
+This log tracks the cryptographic history and versioning for the song **Gefühle sterben nie** (gefuhle-sterben-nie).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:47:50.583233 | `v1` | `7c303d4915f17127d323f1f18259912c2ed591a0e2e68ba4688cfbd0e4a6c3d1` | `abd2d8e27aff83406ffd96bc76a51291b13569c525754b90fedf1c0a0ab2f357` | `2026-06-28_gefuhle-sterben-nie-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
