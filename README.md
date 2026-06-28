@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gefuhle-sterben-nie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Gefühle sterben nie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefuhle-sterben-nie/) |
+| **Get License** | [Get a Licensing Quote for Gefühle sterben nie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefuhle-sterben-nie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir cruisen durch die Nacht, nur der Mond schaut uns zu
+> Kein Limit, keine Regeln, Baby, nur ich und du
+> Dein Blick ist so crazy, er zieht mich in den Bann
+> Ich fahr' uns weit weg, so schnell wie ich kann
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
